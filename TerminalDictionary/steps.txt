@@ -1,0 +1,4 @@
+make a shell file
+change permissions
+export path and add it to profile
+run from anywhere.

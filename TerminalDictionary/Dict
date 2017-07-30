@@ -1,0 +1,4 @@
+#!/bin/bash
+word="$1"
+export word
+python /home/gopal/Documents/TerminalDictionary/dict.py -w $word
